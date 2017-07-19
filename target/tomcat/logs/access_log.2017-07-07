@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [07/Jul/2017:07:22:41 -0400] "GET /SprintRestServices/employee/getEmployee HTTP/1.1" 200 106 http-bio-8080-exec-1 65
+0:0:0:0:0:0:0:1 - - [07/Jul/2017:07:22:41 -0400] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-2 0
